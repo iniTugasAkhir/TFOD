@@ -23,7 +23,7 @@ python -m ipykernel install --user --name=objectDetectionL
 Run Jupyter Notebook
 <pre>
 jupyter notebook
-<pre/>
+</pre>
 <br/>
 <b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/iniTugasAkhir/TFOD/blob/main/1.%20Image%20Collection.ipynb">1. Image Collection.ipynb</a>
 <br/>
