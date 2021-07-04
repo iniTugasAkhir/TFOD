@@ -1,7 +1,7 @@
 ## Steps
 <br />
-<b>Step 1.</b> Clone:
-git clone https://github.com/iniTugasAkhir/TFOD
+<b>Step 1.</b> Clone Repo
+<pre> git clone https://github.com/iniTugasAkhir/TFOD </pre>
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
